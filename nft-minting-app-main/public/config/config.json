@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdAbD49E79b4aEe13DAa9C34B10a5Be66Cd1b9075",
+  "SCAN_LINK": "https://polygonscan.com/address/0xdabd49e79b4aee13daa9c34b10a5be66cd1b9075",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Matic",
+  "SYMBOL": "MATIC TEST",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.00004,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/matic-test-8t0x3rgx99",
+  "SHOW_BACKGROUND": true
+}
